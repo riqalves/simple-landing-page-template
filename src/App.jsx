@@ -26,7 +26,7 @@ export function App() {
     <div className="container">
       {/* 1. BARRA DE NAVEGAÇÃO */}
       <header className="navbar">
-        <span className="logo">🚀 MeuProjeto</span>
+        <span className="logo"> MeuProjeto</span>
         <nav style={{ display: 'flex', gap: '20px' }}>
           <a href="#galeria" style={{ color: 'inherit', textDecoration: 'none' }}>
             Galeria
